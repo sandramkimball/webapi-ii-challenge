@@ -6,8 +6,11 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <Posts/>
+        <p>Lord of the Ring Quotes</p>
       </header>
+      <section>
+        <Posts/>
+      </section>
     </div>
   );
 }
